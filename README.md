@@ -4,13 +4,6 @@
 
 I mostly live in the Angular ecosystem, where components are tidy, RxJS streams flow, and `strict` mode stays on. I also genuinely like React, build APIs with NestJS, and occasionally bring the enterprise-grade energy with Spring Boot.
 
-<p>
-  <a href="https://github.com/raindrop-ua?tab=followers">
-    <img src="https://img.shields.io/github/followers/raindrop-ua?label=Followers&style=for-the-badge&color=181717" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=raindrop-ua&style=for-the-badge&color=DD0031" alt="Profile views" />
-</p>
-
 ## What I work with
 
 <p>
@@ -37,7 +30,7 @@ I mostly live in the Angular ecosystem, where components are tidy, RxJS streams 
 
 ```ts
 const anton = {
-  frontend: ['Angular', 'TypeScript', 'RxJS', 'React'],
+  frontend: ['Angular', 'TypeScript', 'RxJS', 'NgRx', 'React'],
   backend: ['NestJS', 'Spring Boot', 'REST APIs'],
   values: ['clean architecture', 'great DX', 'maintainable code'],
   currently: 'turning coffee into features ☕',
