@@ -1,3 +1,5 @@
+![Anton wearing an Angular T-shirt against a dark backdrop with red and violet lighting](assets/anton-angular-hero.png)
+
 # Hey, I'm Anton 👋
 
 ### Angular addict. Backend enjoyer. Builder of things that should actually work.
